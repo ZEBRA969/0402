@@ -70,3 +70,21 @@ a:visited {
   margin-left: auto;
   margin-right: auto;
 }
+.foo{
+width: 200px;
+height: 200px;
+border: 10px plum solid;
+position: absolute;
+top: 0px;
+left: 1000px;
+z-index: 1;
+}
+.doo{
+  width: 240px;
+  height: 500px;
+  border: 6px pink solid;
+  position: absolute;
+  top: 0px;
+  left: 100px;
+  z-index: 3;
+  }
